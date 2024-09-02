@@ -48,7 +48,7 @@ This Streamlit application allows users to upload and download files directly fr
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/file-upload-download-app.git
+   git clone https://github.com/ashishSharma222003/offline_cloud_storage.git
 2. **Navigate to the project directory:**
 
    ```sh
